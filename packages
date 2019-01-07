@@ -1,0 +1,10 @@
+Installed all packages that you preferred.
+
+for git: apt-get install git  (2.7.4)
+For docker: apt-get install docker  (18.06.1)
+for docker-compose: apt-get install docker-compose  (1.13.0)
+for nvm:
+apt-get install build-essential libssl-dev
+curl https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash  (0.33.2)
+for openssl: apt-get install openssl  (1.1.1)
+for node: apt-get install node (Version 8.12.0)
