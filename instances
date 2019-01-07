@@ -1,0 +1,10 @@
+Connect remotely through this below command with key pair.
+
+ssh -i "Ubuntu-1.pem" ubuntu@ec2-54-85-55-135.compute-1.amazonaws.com
+ssh -i "Ubuntu-2.pem" ubuntu@ec2-54-196-129-33.compute-1.amazonaws.com
+
+First you need to go to root user to install the packages.
+Then i have changed Host name for both root users as
+
+MSR-test-instance-1
+MSR-test-instance-2
